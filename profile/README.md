@@ -16,7 +16,7 @@
     <a href="https://github.com/LeanMCP/leanmcp-sdk/blob/main/LICENSE" alt="License">
         <img src="https://img.shields.io/github/license/LeanMCP/leanmcp-sdk" /></a>
     <a href="https://github.com/LeanMCP/superview.sh/stargazers" alt="GitHub stars">
-        <img src="https://img.shields.io/github/stars/LeanMCP/leanmcp-sdk?style=social" /></a>
+        <img src="https://img.shields.io/github/stars/LeanMCP/superview.sh?style=social" /></a>
 </p>
 </p>
 <p align="center">
